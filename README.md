@@ -1,2 +1,6 @@
 # Udemy-EDA
-Analyzing Udemy sales data to improve sales 
+Analyzing Udemy sales data to improve sales.
+
+Employed data cleaning in Spreadsheets, conducted Exploratory Data Analysis (EDA) with Tableau to 
+uncover insights, and executed Root Cause Analysis (RCA) to address declining revenue. Offered strategic 
+solutions based on trends within Udemy's course modules
